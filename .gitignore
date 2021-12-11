@@ -74,3 +74,5 @@ crashlytics-build.properties
 /Assets/Resources/Sprites/Saved/
 /Build/
 /History/
+secret.txt
+Note.md
